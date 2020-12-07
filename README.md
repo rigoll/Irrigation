@@ -8,10 +8,10 @@ Done
 There is always things to add, bur for now this projects is done.
 
 Project Screen Shot(s)
-Example:
-[ PRETEND SCREEN SHOT IS HERE ]
+![IMG](https://user-images.githubusercontent.com/47412732/101300939-8cb59800-3837-11eb-943a-792625255f93.jpg)
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![IMG_20200609_092011](https://user-images.githubusercontent.com/47412732/101301061-ec13a800-3837-11eb-87ff-5b9724612b48.jpg)
+
 
 Installation and Setup Instructions
 Example:
