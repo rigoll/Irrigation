@@ -3,48 +3,18 @@ Irrigation
 A simple yet super useful machine that waters your plants, built with C++, arduino.
 
 Project Status:
-Done
+Done.
+There is always things to add, but for now this projects is done.
 
-There is always things to add, bur for now this projects is done.
-
-Project Screen Shot(s)
+Project Screen Shots
 ![IMG](https://user-images.githubusercontent.com/47412732/101300939-8cb59800-3837-11eb-943a-792625255f93.jpg)
-
 ![IMG_20200609_092011](https://user-images.githubusercontent.com/47412732/101301061-ec13a800-3837-11eb-87ff-5b9724612b48.jpg)
 
 
-Installation and Setup Instructions
-Example:
-Clone down this repository. You will need node and npm installed globally on your machine.
+Installation and Setup Instructions:
+Since this is just I few Lines of C++ Code the install is verry straightforward, just download the code and put it in your Arduino.
 
-Installation:
 
-npm install
-
-To Run Test Suite:
-
-npm test
-
-To Start Server:
-
-npm start
-
-To Visit App:
-
-localhost:3000/ideas
-
-Reflection
-What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
-What did you set out to build?
-Why was this project challenging and therefore a really good learning experience?
-What were some unexpected obstacles?
-What tools did you use to implement this project?
-This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.
-Example:
-This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.
-
-Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the create-react-app boilerplate, then adding react-router-4.0 and redux.
-
-One of the main challenges I ran into was Authentication. This lead me to spend a few days on a research spike into OAuth, Auth0, and two-factor authentication using Firebase or other third parties. Due to project time constraints, I had to table authentication and focus more on data visualization from parts of the API that weren't restricted to authenticated users.
-
-At the end of the day, the technologies implemented in this project are React, React-Router 4.0, Redux, LoDash, D3, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the create-react-app boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a webpack.config.js file to more fully understand the build process.
+Reflection.
+This idea was born because of two reasons. First my plants tend to live for about 1-2 months and second a wanted to learn more about practical programming, was getting tired of the compiler writing "Hello world". This was my first build with arduino and C++. When I started this project I had a little bit different vision of what this was going to be. My plan was to write this on Rpi whith Java and connect a screen to it for better overview, turned out I didnt want or need the monitor and therefore the Rpi became redundant and arduiono was better suited. It took far longer to complete this then I planned. Mostly because ordering stuff from China takes time especially due to Covid-19. One of the hardest part with this project was working on the electronics but I did get a ton of experience.
+This project is complete altough there is things to add, besides maintainence is still a thing when you order cheap components from China.
