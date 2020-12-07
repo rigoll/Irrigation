@@ -1,4 +1,7 @@
-Irrigation
+Irrigation.
+{
+  font-size: 75;
+}
 
 A simple yet super useful machine that waters your plants, built with C++, arduino.
 
